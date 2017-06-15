@@ -30,7 +30,7 @@ Parameters:
     InstanceCount: 
         Description: How many instances should the AutoScaling Group contain
         Type: Number
-        Default: 2
+        Default: 1
 
     DeploymentStrategy:
         Description: The CodeDeploy deployment strategy to user
